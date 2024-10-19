@@ -1,5 +1,8 @@
 # Bankist2
 
+## Introduction
+Bankist2 is a modern banking web application that provides users with a sleek, intuitive interface to manage their finances. It simulates a real-world online banking experience with a clean and responsive design.
+
 [Live Demo](https://tanzeel0.github.io/Bankist2/)
 
 ## Table of Contents
@@ -13,9 +16,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-Bankist2 is a modern banking web application that provides users with a sleek, intuitive interface to manage their finances. It simulates a real-world online banking experience with a clean and responsive design.
-
 ## Features
 - **User Authentication**: Simulated login using a hardcoded username and password.
 - **Account Overview**: Users can view their total balance, deposits, withdrawals, and interest.
@@ -25,6 +25,10 @@ Bankist2 is a modern banking web application that provides users with a sleek, i
 - **Account Closure**: Simulates account closure with a simple form.
 ## Screenshot
 
+![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
+![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
+![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
+![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
 ![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
 
 ## Technologies Used
