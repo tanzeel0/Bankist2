@@ -25,11 +25,11 @@ Bankist2 is a modern banking web application that provides users with a sleek, i
 - **Account Closure**: Simulates account closure with a simple form.
 ## Screenshot
 
-![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
-![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
-![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
-![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
-![Bankist Screenshot](https://tanzeel0.github.io/Mapty/screenshot.png)
+![Bankist Screenshot](https://github.com/tanzeel0/Bankist2/blob/main/Screenshot%20(48).png)
+![Bankist Screenshot](https://github.com/tanzeel0/Bankist2/blob/main/Screenshot%20(49).png)
+![Bankist Screenshot](https://github.com/tanzeel0/Bankist2/blob/main/Screenshot%20(50).png)
+![Bankist Screenshot](https://github.com/tanzeel0/Bankist2/blob/main/Screenshot%20(51).png)
+![Bankist Screenshot](https://github.com/tanzeel0/Bankist2/blob/main/Screenshot%20(52).png)
 
 ## Technologies Used
 - **HTML**: For structuring the webpage content.
