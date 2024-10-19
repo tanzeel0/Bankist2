@@ -11,11 +11,6 @@ Bankist2 is a modern banking web application that provides users with a sleek, i
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
 - [UI Design](#ui-design)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 - **User Authentication**: Simulated login using a hardcoded username and password.
 - **Account Overview**: Users can view their total balance, deposits, withdrawals, and interest.
